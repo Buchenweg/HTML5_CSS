@@ -26,3 +26,30 @@ A _cat_ meow
   - third one
   - thid two
 - fourth
+
+* first list item.
+* second list item.
+    > A blockquote would look great below the second list item.
+* third list item
+___
+ ![Tux, the Linux mascot](/assets/images/tux.png)
+
+ ![My interesting image]()
+___
+
+ at the command prompt type:
+
+  `include <conio.h>`
+
+
+***
+  __source__ = https://www.markdownguide.org/basic-syntax/
+
+***
+My favorite search engine is [Duck Duck Go](https://duckduckgo.com).
+
+I love supporting the **[EFF](https://eff.org)**.
+This is the *[Markdown Guide](https://www.markdownguide.org)*.
+See the section on [`code`](#code).
+
+ 
